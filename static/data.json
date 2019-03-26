@@ -1,0 +1,348 @@
+{
+  "list": {
+    "dailyName": "商城日报",
+    "daily": "在线提供服务支持，帮您解答有关小s产品的一切问题，了解小米最新动态，购物流程，物流信息 ，售后服务等服务。",
+    "dailyImg": "http://img1qn.moko.cc/2017-08-04/472178e5-7588-426c-bcfb-39db6696ed39.jpg",
+    "news": [
+      {
+        "newsName": "65寸高清电视2999元限量抢购！",
+        "newsText": "小米品牌特惠，全场799元起",
+        "newsTime": "1469281964000"
+      },
+      {
+        "newsName": "42寸高清电视1999元限量抢购！",
+        "newsText": "荣耀品牌特惠，全场899元起",
+        "newsTime": "1469281964000"
+      },
+      {
+        "newsName": "32寸高清电视999元限量抢购！",
+        "newsText": "魅族品牌特惠，全场799元起",
+        "newsTime": "1469281964000"
+      },
+      {
+        "newsName": "65寸高清电视2999元限量抢购！",
+        "newsText": "TCL品牌特惠，全场799元起",
+        "newsTime": "1469281964000"
+      }
+    ],
+    "lists": [
+      {
+        "id": "1",
+        "name": "推荐"
+      },
+      {
+        "id": "2",
+        "name": "手机"
+      },
+      {
+        "id": "3",
+        "name": "电脑"
+      },
+      {
+        "id": "4",
+        "name": "电视"
+      },
+      {
+        "id": "5",
+        "name": "二手"
+      }
+    ],
+    "image": [
+      {
+        "img": "https://img02.sogoucdn.com/app/a/100520093/d22e3fca47f17183-cc14b0a42cdb3626-432ad18ed744afc85dbdaefe260f56f8.jpg"
+      },
+      {
+        "img": "https://img03.sogoucdn.com/app/a/100520093/591cdf56f6e9b2bf-7a3bf27186d623d7-97360522dfc1f85fc03b715417de1683.jpg"
+      },
+      {
+        "img": "https://img02.sogoucdn.com/app/a/100520093/e7d4cac126941b5a-24720e65b2e49aa2-28567371614ce822c133d034f55d7902.jpg"
+      }
+    ],
+    "product": [
+      {
+        "id": 1,
+        "image": "https://i01piccdn.sogoucdn.com/a5c11eb701e9b9b3",
+        "productName": "小米6",
+        "productText": "拍照好神器！",
+        "productPrice": "1999",
+        "price": "2999",
+        "color": "黑色",
+        "memory": "6GB+64GB"
+      },
+      {
+        "id": 2,
+        "image": "https://i04picsos.sogoucdn.com/bc08b1973f4c7d7e",
+        "productName": "联想主机",
+        "productText": "学习必备！",
+        "productPrice": "4999",
+        "price": "5999",
+        "color": "黑色",
+        "memory": "6GB运行+120固态硬盘"
+      },
+      {
+        "id": 3,
+        "image": "http://www.haogongzhang.com/Uploads/baike/201412/548f9ea0a84af.jpg",
+        "productName": "TCL 42寸",
+        "productText": "看电视必备！",
+        "productPrice": "3999",
+        "price": "4999",
+        "color": "白色",
+        "memory": "高清蓝光"
+      },
+      {
+        "id": 4,
+        "productName": "戴尔",
+        "image": "http://2.zol-img.com.cn/product/176_501x2000/559/ce8bmp1LlqHGw.jpg",
+        "goodsDetailsName": "戴尔灵越",
+        "productText": "学习必备！",
+        "productPrice": "4999",
+        "price": "5999",
+        "color": "黑色",
+        "memory": "6GB运行+120固态硬盘"
+      },
+      {
+        "id": 5,
+        "productName": "冰箱",
+        "image": "https://i04piccdn.sogoucdn.com/6b49d6ba4bde0637",
+        "goodsDetailsName": "海尔冰箱",
+        "productText": "夏天必备！",
+        "productPrice": "3999",
+        "price": "4999",
+        "color": "灰色",
+        "memory": "极速冷冻+保鲜"
+      },
+      {
+        "id": 6,
+        "productName": "水果",
+        "image": "https://i04piccdn.sogoucdn.com/0cf9ec26bdeaf87a",
+        "goodsDetailsName": "海南芒果",
+        "productText": "酸甜可口",
+        "productPrice": "199",
+        "price": "99",
+        "color": "绿色",
+        "memory": "一个一斤重"
+      },
+      {
+        "id": 7,
+        "productName": "数码",
+        "image": "https://i04picsos.sogoucdn.com/dc838ddf42f9f497",
+        "goodsDetailsName": "数码相机",
+        "productText": "高清图片！",
+        "productPrice": "2999",
+        "price": "3999",
+        "color": "黑色",
+        "memory": "非一般的相机"
+      }
+    ]
+  },
+  "goods": {
+    "goodsClassify": [
+      {
+        "id": 1,
+        "goodsName": "手机"
+      },
+      {
+        "id": 2,
+        "goodsName": "电脑"
+      },
+      {
+        "id": 3,
+        "goodsName": "电视"
+      },
+      {
+        "id": 4,
+        "goodsName": "笔记本"
+      },
+      {
+        "id": 5,
+        "goodsName": "冰箱"
+      },
+      {
+        "id": 6,
+        "goodsName": "水果"
+      },
+      {
+        "id": 7,
+        "goodsName": "数码"
+      }
+    ],
+    "goodsImg": [
+      {
+        "id": 1,
+        "image1": "https://img03.sogoucdn.com/app/a/100520093/a6560b7a839a6988-43df8ab4b5c0621b-1c02a17c9c125d04f28638c6a86fb48d.jpg",
+        "goodsName": "手机",
+        "image": "https://i02piccdn.sogoucdn.com/bf0130e28711f651",
+        "goodsImage": [
+          {
+            "img": "https://i02piccdn.sogoucdn.com/bf0130e28711f651",
+            "name": "小米5"
+          }
+        ],
+        "goodsDetailsName": "小米5",
+        "goodsDetailsBut": "加入购物车",
+        "goodsDetailsText": "拍照好神器！",
+        "goodsDetailsPrice": "1999",
+        "price": "2999",
+        "color": "黑色",
+        "memory": "6GB+64GB"
+      },
+      {
+        "id": 2,
+        "image1": "https://img02.sogoucdn.com/app/a/100520093/ac866af34b65eefe-45e3130e3aa1cd91-0a338e074ce27724ee0d09ea1c627d19.jpg",
+        "goodsName": "电脑",
+        "image": "https://i04piccdn.sogoucdn.com/1e03569a3614f621",
+        "goodsImage": [
+          {
+            "img": "https://i04picsos.sogoucdn.com/bc08b1973f4c7d7e",
+            "name": "联想主机"
+          }
+        ],
+        "goodsDetailsName": "联想主机",
+        "goodsDetailsText": "学习必备！",
+        "goodsDetailsPrice": "4999",
+        "price": "5999",
+        "color": "黑色",
+        "memory": "6GB运行+120固态硬盘"
+      },
+      {
+        "id": 3,
+        "image1": "https://i03piccdn.sogoucdn.com/796df956e476150a",
+        "goodsName": "电视",
+        "image": "https://i03piccdn.sogoucdn.com/0d0bcdf80e027240",
+        "goodsImage": [
+          {
+            "img": "https://i03piccdn.sogoucdn.com/0d0bcdf80e027240",
+            "name": "TCL"
+          }
+        ],
+        "goodsDetailsName": "TCL 42寸",
+        "goodsDetailsText": "看电视必备！",
+        "goodsDetailsPrice": "3999",
+        "price": "4999",
+        "color": "白色",
+        "memory": "高清蓝光"
+      },
+      {
+        "id": 4,
+        "image1": "https://i01picsos.sogoucdn.com/874ea50c8acebb16",
+        "goodsName": "笔记本",
+        "image": "https://i04picsos.sogoucdn.com/c6181039ee902762",
+        "goodsImage": [
+          {
+            "img": "https://i04picsos.sogoucdn.com/c6181039ee902762",
+            "name": "戴尔"
+          }
+        ],
+        "goodsDetailsName": "戴尔灵越",
+        "goodsDetailsText": "游戏必备！",
+        "goodsDetailsPrice": "4999",
+        "price": "5999",
+        "color": "黑色",
+        "memory": "8GB运行+250固态"
+      },
+      {
+        "id": 5,
+        "image1": "https://i02piccdn.sogoucdn.com/c7cf689ba8fa94fb",
+        "goodsName": "冰箱",
+        "image": "https://i04piccdn.sogoucdn.com/6b49d6ba4bde0637",
+        "goodsImage": [
+          {
+            "img": "https://i04piccdn.sogoucdn.com/6b49d6ba4bde0637",
+            "name": "海尔"
+          }
+        ],
+        "goodsDetailsName": "海尔冰箱",
+        "goodsDetailsText": "夏天必备！",
+        "goodsDetailsPrice": "3999",
+        "price": "4999",
+        "color": "灰色",
+        "memory": "极速冷冻+保鲜"
+      },
+      {
+        "id": 6,
+        "image1": "https://img04.sogoucdn.com/app/a/100520093/1d78d94ef5a81b2a-3e6cdc8b0012155b-f818f81806b78fe1636e379a1f2d01a3.jpg",
+        "goodsName": "水果",
+        "image": "https://i04piccdn.sogoucdn.com/5fd6e6dfc627468c",
+        "goodsImage": [
+          {
+            "img": "https://i04piccdn.sogoucdn.com/0cf9ec26bdeaf87a",
+            "name": "芒果"
+          }
+        ],
+        "goodsDetailsName": "海南芒果",
+        "goodsDetailsText": "酸甜可口",
+        "goodsDetailsPrice": "199",
+        "price": "99",
+        "color": "绿色",
+        "memory": "一个一斤重"
+      },
+      {
+        "id": 7,
+        "image1": "https://img01.sogoucdn.com/app/a/100520093/30b30b6c3013fff8-a807c704bd5a8c80-5644756c8cea622abd921bd6b7662816.jpg",
+        "goodsName": "数码",
+        "image": "https://i04picsos.sogoucdn.com/dc838ddf42f9f497",
+        "goodsImage": [
+          {
+            "img": "https://i04picsos.sogoucdn.com/dc838ddf42f9f497",
+            "name": "相机"
+          }
+        ],
+        "goodsDetailsName": "数码相机",
+        "goodsDetailsText": "高清图片！",
+        "goodsDetailsPrice": "2999",
+        "price": "3999",
+        "color": "黑色",
+        "memory": "非一般的相机"
+      }
+    ]
+  },
+  "hotFind": {
+    "hostFindMain": [
+      {
+        "title": "热门话题",
+        "text": "参与赢取小金刚！看谁是品质王！",
+        "image": "https://i02picsos.sogoucdn.com/3c2caa8f4ea504f8",
+        "time": "1469281964000",
+        "times": "70",
+        "comment": "90"
+      },
+      {
+        "title": "热门话题",
+        "text": "参与赢取小金刚！看谁是品质王！",
+        "image": "https://i02picsos.sogoucdn.com/3c2caa8f4ea504f8",
+        "time": "1469281964000",
+        "times": "99",
+        "comment": "90"
+      },
+      {
+        "title": "热门话题",
+        "text": "参与赢取小金刚！看谁是品质王！",
+        "image": "https://i02picsos.sogoucdn.com/3c2caa8f4ea504f8",
+        "time": "1469281964000",
+        "times": "100",
+        "comment": "90"
+      },
+      {
+        "title": "热门话题",
+        "text": "参与赢取小金刚！看谁是品质王！",
+        "image": "https://i02picsos.sogoucdn.com/3c2caa8f4ea504f8",
+        "time": "1469281964000",
+        "times": "111",
+        "comment": "90"
+      }
+    ]
+  },
+  "my": {
+    "myImage": [
+      {
+        "image": "https://i02piccdn.sogoucdn.com/b6741b301d8f0a9a"
+      },
+      {
+        "image": "https://i02piccdn.sogoucdn.com/fa0e8b119c6c6056"
+      },
+      {
+        "image": "https://i01piccdn.sogoucdn.com/c4aec65bd6aeb4bf"
+      }
+    ]
+  }
+}

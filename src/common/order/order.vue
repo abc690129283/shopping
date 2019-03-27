@@ -18,7 +18,7 @@
         </div>
         <div class="containers" ref="wrapper">
         <div class="container-main-tab">
-          <mt-tab-container v-model="active">
+          <mt-tab-container  v-model="active">
             <mt-tab-container-item id="1">
               <div class="container-main-tab-icon">
                 <i class="iconfont i" slot="icon">&#xe604;</i>
@@ -164,6 +164,7 @@ export default {
 .container-main-tab {
   float: left;
   width: 100%;
+  background-color:#fff;
 }
 .container-main-tab-icon {
   background-color: beige;

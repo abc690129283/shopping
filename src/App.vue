@@ -10,8 +10,8 @@
 <script>
 import mtTabbar from "./common/mt-tabbar/mt-tabbar.vue";
 export default {
-  components:{
-   mtTabbar,
+  components: {
+    mtTabbar
   },
   data() {
     return {
@@ -43,8 +43,6 @@ export default {
 </script>
 
 <style scoped>
-
-
 .child-view {
   position: absolute;
   left: 0;

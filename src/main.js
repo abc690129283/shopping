@@ -25,7 +25,7 @@ Vue.component(TabContainer.name, TabContainer);
 Vue.component(TabContainerItem.name, TabContainerItem);
 // 路由配置
 const RouterConfig = {
-  mode: 'history',
+ // mode: 'history',
   routes: Routers
 }
 const router = new VueRouter(RouterConfig);

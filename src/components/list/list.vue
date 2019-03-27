@@ -361,15 +361,23 @@ export default {
 }
 .wrapper-main-menu {
   width: 100%;
-  height: 5rem;
+  height: 5.8rem;
+
 }
 .wrapper-main-menus ul li {
+  padding-top:0.3rem;
   width: 20%;
   float: left;
   text-align: center;
+  height:3rem;
 }
 i {
   color: tan;
+  font-size:1.1rem;
+}
+.a{
+  font-size:0.5rem;
+  padding-top:0.2rem;
 }
 
 /*------------------------------*/
